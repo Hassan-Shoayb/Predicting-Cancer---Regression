@@ -11,6 +11,7 @@ American Cancer Society. Cancer is a broad term. It describes the disease that r
   <li>Matplotlib</li>
   <li>Seaborn</li>
   <li>Scikit Learn</li>
+  <li>Stats Model</li>
 </ul>
 
 
