@@ -8,7 +8,8 @@ American Cancer Society. Cancer is a broad term. It describes the disease that r
     Pandas
   </li>
   <li>Numpy</li>
-  <li>Maplotlib</li>
+  <li>Matplotlib</li>
+  <li>Seaborn</li>
 </ul>
 
 
